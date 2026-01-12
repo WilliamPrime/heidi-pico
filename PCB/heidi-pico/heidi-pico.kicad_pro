@@ -191,6 +191,7 @@
         0.175,
         0.2,
         0.2,
+        0.4,
         0.7,
         2.0
       ],
@@ -509,7 +510,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/willi/Desktop/hc/gtihub clone/heidi-pico/PCB/heidi-pico/GERBERS/try1/",
+      "plot": "C:/Users/willi/Desktop/hc/gtihub clone/heidi-pico/PCB/heidi-pico/GERBERS/try2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
