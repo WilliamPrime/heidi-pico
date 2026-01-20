@@ -188,6 +188,7 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
         0.175,
         0.2,
         0.2,
@@ -510,7 +511,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/willi/Desktop/hc/gtihub clone/heidi-pico/PCB/heidi-pico/GERBERS/try2/",
+      "plot": "C:/Users/willi/Desktop/hc/gtihub clone/heidi-pico/PCB/heidi-pico/GERBERS/try3/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -576,6 +577,12 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
           "show": false
         },
         {
